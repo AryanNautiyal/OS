@@ -9,4 +9,5 @@
 - https://youtu.be/3obEP8eLsCw?si=7a6GDgaotC_Cfeha  [Complete Operating Systems in 1 Shot (With Notes) || For Placement Interviews]
 
 
-<h4>Mainly focused on 3rd link other link were just used for reference for some part that I might feel waas not there.</h4>
+#### The third link was the primary source, the other two were referred to only for specific parts not covered in it.
+
